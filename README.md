@@ -1,5 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+![image](https://github.com/Aishwarya2701/Quiz-App-Using-NextJS/assets/74247717/b2212649-3480-4389-b585-131040135601)
+
+
 ## Getting Started
 
 First, run the development server:
